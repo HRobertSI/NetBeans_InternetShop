@@ -3,7 +3,7 @@
 $host = "localhost";
 $user = "lllcuser";
 $password = "qwert123";
-$dataBase = "data";
+$dataBase = "lllc";
 
 function connectDatabase() {
     global $host, $user, $password, $dataBase;
